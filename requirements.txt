@@ -1,0 +1,6 @@
+pelican
+pelican-i18n-subsites
+pelican-sitemap
+pelican-jinja2content
+markdown
+ghp-import
