@@ -5,50 +5,50 @@ xmlns:xhtml="http://www.w3.org/1999/xhtml"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2025-07-31T23:44:36-00:00</lastmod>
+<loc>https://millsks.github.io/portfolio/</loc>
+<lastmod>2025-07-31T23:50:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2025-07-31T23:44:36-00:00</lastmod>
+<loc>https://millsks.github.io/portfolio/archives.html</loc>
+<lastmod>2025-07-31T23:50:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/authors.html</loc>
-<lastmod>2025-07-31T23:44:36-00:00</lastmod>
+<loc>https://millsks.github.io/portfolio/authors.html</loc>
+<lastmod>2025-07-31T23:50:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2025-07-31T23:44:36-00:00</lastmod>
+<loc>https://millsks.github.io/portfolio/categories.html</loc>
+<lastmod>2025-07-31T23:50:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about.html</loc>
+<loc>https://millsks.github.io/portfolio/pages/about.html</loc>
 <lastmod>2025-07-31T10:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/contact.html</loc>
+<loc>https://millsks.github.io/portfolio/pages/contact.html</loc>
 <lastmod>2025-07-31T10:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2025-07-31T23:44:36-00:00</lastmod>
+<loc>https://millsks.github.io/portfolio/tags.html</loc>
+<lastmod>2025-07-31T23:50:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
