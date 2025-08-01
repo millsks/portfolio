@@ -29,6 +29,7 @@ LINKS = (
 SOCIAL = {
     'github': 'https://github.com/millsks',
     'linkedin': 'https://www.linkedin.com/in/millsks',
+    'resume': 'https://app.enhancv.com/share/d875c4c9/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic',
 }
 
 DEFAULT_PAGINATION = 10
